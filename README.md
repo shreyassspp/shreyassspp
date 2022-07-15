@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @shreyassspp
-- 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on App Development
 - 📫 Reach me at shreyas.pakhare1@gmail.com
 
 <!---
